@@ -13,7 +13,7 @@ Em breve novos recursos serão adicionados na ferramenta
 
 Por: Victor F.
 
-//================================================================================//
+//===============================================================================//
 
 ## Library - Basic tool for book control
 
