@@ -1,5 +1,7 @@
 Biblioteca - Ferramenta básica para controle de acervo de livros
 
+![index](img/index_v1.0.png)
+
 A v1.0 contém os seguintes recursos:
 - Botão de adicionar livros na estante
 - Botão de remover livros selecionados da estante
