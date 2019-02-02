@@ -1,4 +1,4 @@
-#Biblioteca - Ferramenta básica para controle de acervo de livros
+# Biblioteca - Ferramenta básica para controle de acervo de livros
 
 
 ![index](img/index_v1.0.png)
@@ -12,9 +12,9 @@ Em breve novos recursos serão adicionados na ferramenta
 
 Por: Victor F.
 
-//=============================================================================================//
+//================================================================================//
 
-##Library - Basic tool for book control
+## Library - Basic tool for book control
 
 The v1.0 has the following features:
 - Button that adds books in the bookcase
